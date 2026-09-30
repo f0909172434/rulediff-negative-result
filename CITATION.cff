@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this technical report and its frozen reproducibility artifact."
+title: "When 0.99 Becomes 0.67: A Confirmatory Failure of Lexical Policy-Impact Prediction"
+type: article
+version: 1.0.0
+date-released: 2026-09-30
+authors:
+  - family-names: Wang
+    given-names: Chih-Kai
+    affiliation: National Taipei University of Education
+    email: f0909172434@gmail.com
+license: MIT
+keywords:
+  - agent systems
+  - policy governance
+  - selective invalidation
+  - confirmatory evaluation
